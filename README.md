@@ -16,7 +16,6 @@ OFF switch.
 The monitoring can be done from anywhere remotely using internet of things so we
 can see the data in real time operation in efficient way.
 
-Done by Salem Alzubaidi     
-        Mushari alsallom
-        
+Done by Salem Alzubaidi  and Mushari alsallom   
+            
 supervised by DR. ESSA ALghonaim
